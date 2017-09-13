@@ -6,10 +6,10 @@
 
 **Important:** If you want to build the app by yourself rather than download the release directly, please consider to use the source code from [the production branch](https://github.com/geeeeeeeeek/electronic-wechat/tree/production), the master branch is under development and we cannot guarantee it to be stable.
 
-[![Gitter](https://badges.gitter.im/geeeeeeeeek/electronic-wechat.svg)](https://gitter.im/geeeeeeeeek/electronic-wechat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
-[![Build Status](https://travis-ci.org/geeeeeeeeek/electronic-wechat.svg?branch=master)](https://travis-ci.org/geeeeeeeeek/electronic-wechat)
-[![Build Status](https://img.shields.io/github/stars/geeeeeeeeek/electronic-wechat.svg)](https://github.com/geeeeeeeeek/electronic-wechat)
-[![Build Status](https://img.shields.io/github/forks/geeeeeeeeek/electronic-wechat.svg)](https://github.com/geeeeeeeeek/electronic-wechat)
+[![Gitter](https://badges.gitter.im/mopybird/electronic-wechat.svg)](https://gitter.im/mopybird/electronic-wechat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
+[![Build Status](https://travis-ci.org/mopybird/electronic-wechat.svg?branch=master)](https://travis-ci.org/mopybird/electronic-wechat)
+[![Build Status](https://img.shields.io/github/stars/mopybird/electronic-wechat.svg)](https://github.com/mopybird/electronic-wechat)
+[![Build Status](https://img.shields.io/github/forks/mopybird/electronic-wechat.svg)](https://github.com/mopybird/electronic-wechat)
 [![Build Status](https://img.shields.io/badge/README-切换语言-yellow.svg)](README_zh.md)
 
 ![qq20160428-0 2x](https://cloud.githubusercontent.com/assets/7262715/14876747/ff691ade-0d49-11e6-8435-cb1fac91b3c2.png)
@@ -18,7 +18,7 @@
 
 - **Modern UI and all features from Web WeChat.**
 - **Block message recall.**
-- **Stickers showing support.** [[?]](https://github.com/geeeeeeeeek/electronic-wechat/issues/2)
+- **Stickers showing support.** [[?]](https://github.com/mopybird/electronic-wechat/issues/2)
 - Share subscribed passages on Weibo, Qzone, Facebook, Twitter, Evernote, and email.
 - Mention users in a group chat.
 - Drag and drop to send photos.
@@ -31,7 +31,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ``` bash
 # Clone this repository
-git clone https://github.com/geeeeeeeeek/electronic-wechat.git
+git clone https://github.com/mopybird/electronic-wechat.git
 # Go into the repository
 cd electronic-wechat
 # Install dependencies and run the app
@@ -47,15 +47,9 @@ npm run build:win32
 npm run build:win64
 ```
 
-**New:** Install with your familiar package manager. Check out [images maintained by the community](https://github.com/geeeeeeeeek/electronic-wechat/wiki/System-Support-Matrix#%E7%A4%BE%E5%8C%BA%E8%B4%A1%E7%8C%AE%E7%9A%84%E5%AE%89%E8%A3%85%E5%8C%85)!
+**New:** Install with your familiar package manager. 
 
-**New:** Or, with homebrew!
-
-```bash
-brew cask install electronic-wechat
-```
-
-#### [Download Released App](https://github.com/geeeeeeeeek/electronic-wechat/releases)
+#### [Download Released App](https://github.com/mopybird/electronic-wechat/releases)
 
 #### License [MIT](LICENSE.md)
 
